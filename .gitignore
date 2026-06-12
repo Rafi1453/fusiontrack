@@ -1,3 +1,5 @@
 inventory.json
 hours.json
 salary.json
+config.bat
+node_modules
